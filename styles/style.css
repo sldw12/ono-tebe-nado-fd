@@ -10,8 +10,33 @@
 .header-menu {
     justify-self: start;
 }
+ 
+      
+      .header-link {
+        text-decoration: underline;
+        text-underline-offset: 4px;
+        text-decoration-thickness: 0.5px;
+      }
+      
+      .footer-menu-link {
+        text-decoration: underline;
+        text-underline-offset: 4px;
+        text-decoration-thickness: 0.5px;
+      }
+      
+      
+      .header-link_active {
+        text-decoration: none;
+      }
+      
+       
+      .footer-menu-link-active {
+       text-decoration: none;
+    }
+    
 
-.header-links-list {
+
+    .header-links-list {
     display: flex;
     align-items: center;
     list-style: none;
