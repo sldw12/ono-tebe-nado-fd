@@ -1,1 +1,0 @@
-https://github.com/sldw12/ono-tebe-nado-fd.git
